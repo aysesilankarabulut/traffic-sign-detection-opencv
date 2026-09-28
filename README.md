@@ -2,7 +2,9 @@
 
 A real-time computer vision application that detects traffic-sign-like objects from a webcam stream using **color segmentation** and **shape analysis** with OpenCV and Python.
 
-![Detection demo](images/demo.png)
+![Detection demo 1](images/DEMO.png)
+![Detection demo 2](images/DEMO2.png)
+![Detection demo 3](images/DEMO3.png)
 
 ## How it works
 
